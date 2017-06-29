@@ -1,4 +1,4 @@
-## Ms Bailey Kursar
+# Ms Bailey Kursar – CV
 
 Full stack junior developer with five years of previous experience working in high growth startups.
 
