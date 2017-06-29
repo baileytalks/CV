@@ -4,6 +4,8 @@ Full stack junior developer with five years of previous experience working in hi
 
 Oxford graduate who recently completed [Makers Academy](http://www.makersacademy.com/) in June 2017, learning Ruby and Javascript alongside XP practices such as pair programming and test-driven development.
 
+Final project at Makers Academy built in Node.js – a [real-time collaborative online whiteboard](https://github.com/ilarne/team-whiteboard) using Socket.io and MongoDB.
+
 Making for a career change having worked as a marketer at three early stage Fintech startups, Funding Options, MarketInvoice and Monzo. Ideally looking for an agile environment where juniors are given a good level of autonomy.
 
 > "Bailey is sharp, quick-thinking and fun to work with. She takes ownership of everything that crosses her path and is highly reliable; you never need to check or chase, she simply gets things done.”
