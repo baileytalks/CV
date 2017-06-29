@@ -7,6 +7,7 @@ Oxford graduate who recently completed [Makers Academy](http://www.makersacademy
 Making for a career change having worked as a marketer at three early stage Fintech startups, Funding Options, MarketInvoice and Monzo. Ideally looking for an agile environment where juniors are given a good level of autonomy.
 
 > "Bailey is sharp, quick-thinking and fun to work with. She takes ownership of everything that crosses her path and is highly reliable; you never need to check or chase, she simply gets things done.”
+>
 >– Emily Trant, COO, Funding Options
 
 ## Skills
@@ -30,6 +31,7 @@ For instance, a couple of years ago, when working in Fintech, I became frustrate
 I've also been proactive in previous workplaces, helping to improve culture. One example is that I organised a whole [company offsite at MarketInvoice called 'MIcon'](https://www.youtube.com/watch?v=v9XPuitbjEk), where over 60 employees listened to talks from the CEO of TransferWise and the founder of Indeed. In the evening, the team enjoyed a party with cocktails, street food and a DJ. A few months later I organised an after-work code club for the company.
 
 > "Bailey is an absolute pleasure to work with. She is quick thinking and quick-witted, independent and more than happy to get stuck in and help out with anything."
+>
 > Rosa Glover, ex-Techhub (where I used to volunteer help with events)
 
 #### Loves to collaborate
@@ -41,6 +43,7 @@ Having worked in several high-pressure environments, I've had to quickly pick up
 I have also managed teams in two startups, MarketInvoice and Monzo. At MarketInvoice I went from being the sole marketer at the company to managing six people in less than two years – a steep learning curve! I loved hiring smart, motivated people and working with them as a team.
 
 > "Bailey was very much the heart of our marketing team, driving the team forward with her passion for the product."
+>
 > Paul Spicer, worked with me at MarketInvoice
 
 ## Education
