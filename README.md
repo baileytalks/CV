@@ -14,7 +14,7 @@ I'm a Full Stack Junior Developer with five years of previous experience working
 
 #### The story so far
 
-After graduating from Oxford University in 2008 with a degree in English Literature, I realised I had little to no idea what I wanted to do with my life. I worked as an agent for sign language interpreters; as a receptionist at a high-end hairdressers; as a credit controller at an IT services firm.
+After graduating from Oxford University in 2008 with a degree in English Literature, I realised I had little to no idea what I wanted to do with my life. I worked as an agent for sign language interpreters, then as a receptionist at a high-end hairdressers, then as a credit controller at an IT services firm...
 
 Finally, in 2011, I found something I loved. Tech. I heard about the newly christened 'Silicon Roundabout' and started hanging out every night at any meetup I could find. I ate a lot of free pizza 🍕
 
@@ -46,7 +46,7 @@ For a complete list, go to [GitHub](https://github.com/baileytalks?tab=repositor
 
 ## What else can I do?
 
-#### Self-motivated learner 📚
+#### I'm a self-motivated learner 📚
 
 I'm big on learning new things and generally pick up new things quickly.
 
@@ -54,7 +54,7 @@ In my previous work as a marketer, I often needed to learn new techniques from s
 
 On top of recently completing Makers Academy, I am currently participating in a co-designed [learning marathon](https://www.enrolyourself.com/), researching lifelong learning and Edtech. I'm also a regular at public lectures at the LSE as well as meetups like [Codebar](http://codebar.io/).
 
-#### Proactive contributor 🙋🏻
+#### I'm a proactive contributor 🙋🏻
 
 Like many people, I have things I'm passionate about. The potential of technology to positively impact on lives; seeing more gender diversity in the tech industry; being part of an open, collaborative culture at work.
 
@@ -69,7 +69,7 @@ I'm always excited to improve workplace culture, too. I organised a whole [compa
 >– Rosa Glover, ex-Techhub, where I used to volunteer, helping with meetups
 
 
-#### Loves to collaborate 👫👫
+#### I love to collaborate 👫👫
 
 I owe every success to the great teams I've worked in.
 
@@ -85,7 +85,7 @@ I have also managed teams in two startups, MarketInvoice and Monzo. At MarketInv
 
 ## Education
 
-#### Makers Academy (April to June 2017) 💻
+#### Makers Academy (Apr - Jun 2017) 💻
 
 - Curiosity and passion for code
 - Independent learner and problem-solver
@@ -95,7 +95,7 @@ I have also managed teams in two startups, MarketInvoice and Monzo. At MarketInv
 - Ruby, Rails, Javascript, Node.js
 - RSpec, Jasmine, Mocha
 
-#### University of Oxford (2005 to 2008) 👩🏻‍🎓
+#### University of Oxford (2005 - 2008) 👩🏻‍🎓
 
 - BA (Hons) English Language and Literature (2:1)
 
