@@ -1,7 +1,7 @@
 # Bailey Kursar – CV 📝
 
 _Skip to the good stuff..._  
-[Projects](https://github.com/baileytalks/CV#projects) | [Skills](https://github.com/baileytalks/CV#skills) | [Education](https://github.com/baileytalks/CV#education) | [Experience](https://github.com/baileytalks/CV#experience) | [Interests](https://github.com/baileytalks/CV#interests)
+[Projects](https://github.com/baileytalks/CV#what-ive-built-so-far) | [Skills](https://github.com/baileytalks/CV#what-else-can-i-do) | [Education](https://github.com/baileytalks/CV#education) | [Experience](https://github.com/baileytalks/CV#what-i-did-previously) | [Interests](https://github.com/baileytalks/CV#things-i-do-when-im-not-coding)
 
 _...or check me out elsewhere online_  
 [LinkedIn](https://www.linkedin.com/in/baileykursar) | [Twitter](https://twitter.com/baileytalks) | [Blog](https://dailybailey.co)
@@ -93,7 +93,7 @@ I have also managed teams in two startups, MarketInvoice and Monzo. At MarketInv
 - Test-driven development
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js
-- Rspec, Jasmine, Mocha
+- RSpec, Jasmine, Mocha
 
 #### University of Oxford (2005 to 2008) 👩🏻‍🎓
 
@@ -101,7 +101,7 @@ I have also managed teams in two startups, MarketInvoice and Monzo. At MarketInv
 
 ---
 
-## What I did previously 
+## What I did previously
 
 **Monzo** (Apr 2016 - Jan 2017)  
 Marketing
@@ -118,7 +118,7 @@ Marketing Executive
 
 ---
 
-### Things I do when I'm not coding
+## Things I do when I'm not coding
 
 - Baking (I make great chocolate chip cookies 🍪)
 - Knitting
