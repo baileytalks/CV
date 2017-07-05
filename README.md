@@ -48,7 +48,7 @@ For a complete list, go to [GitHub](https://github.com/baileytalks?tab=repositor
 
 #### I'm a self-motivated learner 📚
 
-I'm big on learning new things and generally pick up new things quickly.
+I'm big on learning and generally pick up new things quickly.
 
 In my previous work as a marketer, I often needed to learn new techniques from scratch in order to succeed. For example, when I saw an opportunity to gain new leads from search engine marketing I was up-and-running with Google Adwords within a couple of days.
 
